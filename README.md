@@ -4,7 +4,7 @@ Hello and welcome to Quarto Pub!
 
 This GitHub repo is for the [Quarto Pub](https://quartopub.com) service.
 
-Please use [Quarto Pub Discussions](https://github.com/quarto-dev/Quarto-Pub/discussions) as a tool to engage with other people in the Quarto Pub community as well as the developers of the service at [Posit](https://posit.co/).
+Please use our [Quarto Pub Discussions](https://github.com/quarto-dev/Quarto-Pub/discussions) as a tool to engage with other people in the Quarto Pub community as well as the developers of the service at [Posit](https://posit.co/).
 
 What can you do there?
 
@@ -17,4 +17,4 @@ Please use [Quarto Pub Issues](https://github.com/quarto-dev/Quarto-Pub/issues) 
 
 To get started with Quarto Pub, visit the [Quarto Pub](https://quartopub.com) website.
 
-View our [Code of Conduct](CODE-OF-CONDUCT.md)
+View our [Code of Conduct](CODE-OF-CONDUCT.md).
