@@ -4,7 +4,7 @@ Hello and welcome to Quarto Pub!
 
 This GitHub repo is for the [Quarto Pub](https://quartopub.com) service.
 
-Please use our [Quarto Pub Discussions](https://github.com/quarto-dev/Quarto-Pub/discussions) as a tool to engage with other people in the Quarto Pub community as well as the developers of the service at [Posit](https://posit.co/).
+Please use our [Quarto Pub Discussions](https://github.com/quarto-dev/Quarto-Pub/discussions) as a tool to engage with other people in the Quarto Pub community as well as the developers of the service at [RStudio, PBC](https://www.rstudio.com/).
 
 What can you do there?
 
